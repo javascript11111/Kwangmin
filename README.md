@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="sylesheet" href="/assets/style.css"/>
-  <title>Kwangmin Cho </title>
+  <title>Kwangmin Cho</title>
 
   <!-- Open Graph meta tags (for link preview) -->
   <meta property="og:title" content="Kwangmin Cho" />
@@ -38,6 +38,7 @@
         <a href="/cv.html">CV</a>
         <a href="/publications.html">Publications</a>
         <a href="/projects.html">Projects</a>
+        <a href="/exhibitions.html">exhibitions</a>
       </div>
     </div>
   </div>
@@ -48,7 +49,7 @@
       <!-- Left: photo + quick contacts -->
       <div class="hero-left">
         <div class="avatar">
-          <img src="/assets/profile.jpg" alt="Heimin Kang portrait">
+          <img src="/assets/profile.jpg" alt="Kwangmin Cho portrait">
         </div>
 
         <nav class="contact" aria-label="Quick contacts">
@@ -84,7 +85,7 @@
 
       <!-- Right: intro -->
       <div class="hero-right">
-        <h1 class="h1">Hello,  I’m Kwangmin.</h1>
+        <h1 class="h1">Hello, I’m Kwangmin.</h1>
         <div class="spacer-40"></div>
         <div class="section details">
           <p>🎓 Ph.D. Design @ UNIST</p>
